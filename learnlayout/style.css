@@ -1,0 +1,37 @@
+* {
+    box-sizing: border-box;
+}
+
+.root {
+    position: relative;
+    background: gray;
+    max-width: 400px;
+    margin: 50px auto;
+    height: 300px;
+    padding: 30px;
+}
+p{
+    padding: 10px;
+}
+.elm {
+    position: absolute;
+    height: 210px;
+    width: 25%;
+    background: peachpuff;
+    text-align: center;
+}
+.elm2 {
+    position: absolute;
+    margin-left: 30%;
+    width: 50%;
+    background: lightblue;
+    text-align: center;
+}
+.elm3 {
+    position: absolute;
+    margin-top: 20%;
+    margin-left: 30%;
+    width: 50%;
+    background: lightgreen;
+    text-align: center;
+}
