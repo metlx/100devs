@@ -20,7 +20,6 @@
 /******************************************
 /* BASE STYLES
 /*******************************************/
-
 body {
 
 }
@@ -40,3 +39,43 @@ footer {
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/
+.main {
+}
+
+.navimg {
+    width: 40px;
+    height: 40px;
+    margin: 0 0 0 30%;
+}
+
+.navi .sec1 {
+    float: left;
+    width: 33%;
+    margin: 1% 0 0 4%;
+}
+
+.navi .sec1 > p {
+    float: left;
+    width: 16%;
+    margin: 0 0 0 0;
+}
+
+.navi .sec2 {
+    float: left;
+    width: 33%;
+    margin: 0 0 0 0;
+}
+.navi .sec3 {
+    float: left;
+    width: 28%;
+    margin: 0 0 0 0;
+}
+
+.navi .sec3 > p {
+    margin: 3% 0 0 75%;
+}
+
+.center {
+    width: 70%;
+    margin: 5% auto;
+}
