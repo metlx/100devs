@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+         <head>
+             <title> BBC - Homepage </title>
+             <meta name="BBC - Website" content="News">
+             <meta content="width=device-width, initial-scale=1.0">
+         </head>
+    <body style="margin: 0;">
+
+        <header style="color: white; background-color: black;" >
+
+					<div id="the whole thing" style="height:100%; width:100%; overflow: hidden;">
+    			<div id="picture" style="float: left; width:9%; background-color:black;">
+					<img src="blq-orbit-blocks_white_alpha.png"></div>
+    			<div id="leftThing" style="float: left; width:9%; background-color:black;">Sign in </div>
+    			<div id="leftThing" style="float: left; width:9%; background-color:black;">Home</div>
+    			<div id="leftThing" style="float: left; width:9%; background-color:black;">News</div>
+    			<div id="content" style="float: left; width:9%; background-color:black;">Sport</div>
+   				<div id="rightThing" style="float: left; width:9%; background-color:black;">Reel</div>
+   				<div id="rightThing" style="float: left; width:9%; background-color:black;">Worklife</div>
+   				<div id="rightThing" style="float: left; width:9%; background-color:black;">Travel</div>
+   				<div id="rightThing" style="float: left; width:9%; background-color:black;">Future</div>
+   				<div id="rightThing" style="float: left; width:9%; background-color:black;">Culture</div>
+   				<div id="rightThing" style="float: left; width:9%; background-color:black;">More</div>
+					</div>
+
+					<div id="the whole thing" style="height:100%; width:100%; overflow: hidden; background: white;">
+    			<div id="leftThing" style="float: left; width:9%; background-color:white; color: black;"><h2> Welcome to BBC.com </h2></div>
+    			<div id="leftThing" style="float: right; width:9%; background-color:white; color: black;"><h2> Wednesday, 19 January </h2></div>
+					</div>
+
+        </header>
+    </body>
+</html>

@@ -1,0 +1,81 @@
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+html {
+  margin: 30px;
+  border: 5px solid limegreen;
+  height: 90vh;
+  width: 100vh;
+}
+body {
+  background: #87ceeb;
+}
+#div1 h1 {
+  color: white;
+  text-align: center;
+  font-style: italic;
+}
+#div2 #ul-list {
+  text-align: center;
+  list-style: none;
+}
+#div2 #ul-list li {
+  display: inline;
+  font-weight: bold;
+  padding-right: 10px;
+}
+body img {
+  width: 200px;
+  height: 250px;
+  float: right;
+  margin: 30px;
+}
+#tricky {
+  color: limegreen;
+}
+#trick2 {
+  color: white;
+  text-decoration: none;
+  border-right: 3px solid gray;
+  padding-right: 10px;
+}
+#div3 h2 {
+  color: white;
+  margin: 30px;
+  font-style: bold;
+}
+#a1 {
+  color: white;
+  margin: 30px;
+}
+#a1 p {
+  line-height: 150%;
+}
+#a2 {
+  color: white;
+  margin: 30px;
+}
+#a2 p {
+  line-height: 150%;
+}
+footer nav ul {
+  text-align: center;
+}
+footer nav ul li {
+  display: inline;
+  padding-right: 10px;
+}
+footer nav ul li a {
+  color: limegreen;
+  font-weight: bold;
+}
+#bright {
+  border-right: 3px solid grey;
+  padding-right: 10px;
+}
+#bright2 {
+  border-right: 3px solid grey;
+  padding-right: 10px;
+}

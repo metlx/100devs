@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+  <head>
+    <title>Learn With Leon & Friends</title>
+    <link rel="stylesheet" href="css/style.css">
+    <p>
+    </p>
+  </head>
+
+  <body>
+
+    <div id="div1">
+      <h1>Learn With Leon & Friends </h1>
+    </div>
+
+    <div id="div2">
+      <nav>
+        <ul id="ul-list">
+          <li><a id="trick2" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">About Us</a></li>
+          <li><a id="tricky" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Portfolio</a></li>
+        </ul>
+      </nav>
+    </div>
+
+    <div id="div3">
+      <h2>About Us<img src="logo.png" alt="picture is broke sorry"></h2>
+    </div>
+
+    <article id="a1">
+      <p>
+        Lorem ipsum dolor sit amet, consectetur adipisicing
+        elit, sed do eiusmod tempor incididunt ut labore et
+        dolore magna aliqua. Ut enim ad minim veniam, quis
+        nostrud exercitation ullamco laboris nisi ut aliquip ex
+        ea commodo consequat. Duis aute irure dolor in
+        reprehenderit in voluptate velit esse cillum dolore eu
+        fugiat nulla pariatur. Excepteur sint occaecat cupidatat
+        non proident, sunt in culpa qui officia deserunt mollit
+        anim id est laborum.
+      </p>
+    </article>
+
+    <article id="a2">
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipisicing
+      elit, sed do eiusmod tempor incididunt ut labore et
+      dolore magna aliqua. Ut enim ad minim veniam, quis
+      nostrud exercitation ullamco laboris nisi ut aliquip ex
+      ea commodo consequat. Duis aute irure dolor in
+      reprehenderit in voluptate velit esse cillum dolore eu
+      fugiat nulla pariatur. Excepteur sint occaecat cupidatat
+      non proident, sunt in culpa qui officia deserunt mollit
+      anim id est laborum.
+      </p>
+    </article>
+
+  </body>
+
+  <footer>
+
+      <nav>
+        <ul id="bottom-nav">
+          <li><a id="bright" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Twitch</a></li>
+          <li><a id="bright2" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Twitter</a></li>
+          <li><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Youtube</a></li>
+          <li><a href=""></a></li>
+        </ul>
+
+      </nav>
+
+  </footer>
+
+</html>

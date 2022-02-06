@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title> BBC - Homepage </title>
+  <meta name="BBC - Website" content="html, css, javascript">
+  <meta content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <header>
+    <section>
+      <ul>
+        <li>
+          <a href="#">Home</a>
+          <a href="#">News</a>
+          <a href="#">Sport</a>
+          <a href="#">Reel</a>
+          <a href="#">Worklife</a>
+          <a href="#">Travel</a>
+          <a href="#">Future</a>
+          <a href="#">Culture</a>
+          <a href="#">More</a>
+        </li>
+      </ul>
+    </section>
+  </header>
+</body>
+
+</html>

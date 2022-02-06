@@ -1,0 +1,10 @@
+The whole thing is called a rule
+
+p: selector
+color: declaration property
+red: declaration value
+{}: declaration block
+
+p {
+  color: red;
+  }
