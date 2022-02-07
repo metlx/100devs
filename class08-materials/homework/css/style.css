@@ -21,7 +21,6 @@
 /* BASE STYLES
 /*******************************************/
 body {
-
 }
 
 
@@ -39,9 +38,6 @@ footer {
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/
-.main {
-}
-
 .navimg {
     width: 40px;
     height: 40px;
@@ -51,7 +47,7 @@ footer {
 .navi .sec1 {
     float: left;
     width: 33%;
-    margin: 1% 0 0 4%;
+    margin: 0 0 0 4%;
 }
 
 .navi .sec1 > p {
@@ -72,10 +68,5 @@ footer {
 }
 
 .navi .sec3 > p {
-    margin: 3% 0 0 75%;
-}
-
-.center {
-    width: 70%;
-    margin: 5% auto;
+    margin: 0 0 0 75%;
 }
