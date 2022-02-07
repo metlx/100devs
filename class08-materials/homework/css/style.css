@@ -21,6 +21,8 @@
 /* BASE STYLES
 /*******************************************/
 body {
+    background: #65768b;
+    color: #f1f2f1;
 }
 
 
@@ -38,10 +40,21 @@ footer {
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/
+a {
+    text-decoration: none;
+    color: #f1f2f1;
+    font-weight: bold;
+}
+
 .navimg {
-    width: 40px;
-    height: 40px;
-    margin: 0 0 0 30%;
+    width: 60px;
+    height: 60px;
+    margin: -3% 0 0 30%;
+}
+
+.navi {
+    margin: 30px 10px 10px 10px;
+    clear: both;
 }
 
 .navi .sec1 {
@@ -52,8 +65,9 @@ footer {
 
 .navi .sec1 > p {
     float: left;
-    width: 16%;
+    width: 20%;
     margin: 0 0 0 0;
+    font-style: bold;
 }
 
 .navi .sec2 {
@@ -61,6 +75,7 @@ footer {
     width: 33%;
     margin: 0 0 0 0;
 }
+
 .navi .sec3 {
     float: left;
     width: 28%;
@@ -69,4 +84,16 @@ footer {
 
 .navi .sec3 > p {
     margin: 0 0 0 75%;
+}
+
+.test {
+    background-color: #f1f2f1;
+    border: none;
+    border-radius: 8px;
+    color: #65768b;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
 }
