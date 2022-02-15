@@ -40,6 +40,10 @@ footer {
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/
+nav {
+	margin: 10px 10px 10px 10px;
+	height: 100px;
+}
 nav p {
     margin: 10px 60px 10px 60px;
     float: left;
