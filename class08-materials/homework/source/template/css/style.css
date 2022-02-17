@@ -40,3 +40,53 @@ footer {
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/
+nav{
+    margin: 3% 0 0 0;
+}
+nav>*{
+    width: 33%;
+    float: left;
+    margin: 0 0 0 0;
+}
+.left{
+    width: 3%;
+    margin: 0 0 0 3%;
+}
+nav ul {
+    width: 50%;
+    margin: 0 0 0 10%;
+}
+nav ul li {
+    margin: 0 3%;
+    float: right;
+    list-style: none;
+}
+:any-link{
+    text-decoration: none;
+}
+.right{
+    margin: 0 3% 0 0;
+    float: right;
+    width: 3%;
+}
+div {
+    clear: both;
+}
+.main{
+    float: left;
+    margin: 5% 0 0 5%;
+    width: 30%;
+}
+.lol{
+    margin: 35% 0 0 100%;
+}
+.manu{
+    margin: 5% 0 0 0;
+}
+.floaters{
+    float: right;
+    width: 23%;
+}
+.bigone{
+    margin: 10% 0 0 10%;
+}
