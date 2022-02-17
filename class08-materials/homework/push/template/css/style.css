@@ -40,12 +40,8 @@ footer {
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/
-nav {
-	margin: 10px 10px 10px 10px;
-	height: 100px;
-}
 nav p {
-    margin: 10px 60px 10px 60px;
+    margin: 10px 0 0 60px;
     float: left;
 }
 nav ul {
@@ -62,5 +58,49 @@ nav ul li a {
     color: gray;
 }
 section {
+    margin: 10px 10px 10px 30px;
+    padding: 10px 10px 10px 10px;
+    width: 30%;
     clear: both;
+}
+section a{
+    background-color: white; /* Green */
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+section a + a{
+    background-color: blue; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.img{
+    float: right;
+    margin: -60px 300px 0 0;
+}
+.iBar{
+    width: 40%;
+    float: right;
+    margin: 100px 100px 0 0;
+}
+.iBar ul li{
+    float: right;
+    margin: 0 10px;
+}
+footer{
+    clear: both;
+    margin: 300px 300px 0 0;
+}
+footer>*{
+    float: right;
+    margin: 0 3%;
 }
