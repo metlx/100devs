@@ -1,7 +1,7 @@
 document.getElementById('purple').onclick = partyPurple
 document.getElementById('green').onclick = partyGreen
 document.getElementById('blue').onclick = partyBlue
-document.getElementById('shitbrown').onclick = dirtyShitBrown
+document.getElementById('brown').onclick = bRown
 
 
 function partyPurple() {
@@ -18,7 +18,7 @@ function partyBlue() {
   document.querySelector('body').style.backgroundColor = 'rgba(0,254,255)'
   document.querySelector('body').style.color = 'white'
 }
-function dirtyShitBrown() {
+function bRown() {
     document.querySelector('body').style.backgroundColor = 'brown'
     document.querySelector('body').style.color = 'white'
 }
