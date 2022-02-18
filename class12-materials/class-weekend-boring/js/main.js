@@ -1,6 +1,6 @@
 document.querySelector('#check').addEventListener('click', check)
 
-let total = "penis"
+let total = ""
 
 function check() {
 
