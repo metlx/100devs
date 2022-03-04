@@ -15,10 +15,9 @@ y = y + 25
 alert(y)
 //--- Hard
 //create a variable that holds the h1
-let g = document.querySelector('#id').value
+let g = document.querySelector('#id')
 //add an event listener to that element that console logs the sum of the two previous variables
-document.querySelector('#id').addEventListener('click', run)
-
+g.addEventListener('click', run)
 function run() {
   console.log(y + x)
 }
