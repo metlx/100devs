@@ -10,10 +10,10 @@
 
 // // *Functions*
 // // Create a function that takes in 4 numbers and returns the sum of the first 3 numbers divided by the fourth. Return the result. Call the function.
-// function sumThreeAndDivide(n1,n2,n3,n4){
-//     return (n1+n2+n3) / n4
-// }
-// sumThreeAndDivide(10,20,30,5)
+ function sumThreeAndDivide(n1,n2,n3,n4){
+     return (n1+n2+n3) / n4
+ }
+ sumThreeAndDivide(10,20,30,5)
 
 // // Create a function that takes in 2 numbers. Console log the first number to the power of the second. Call the function.
 // function morePowwwaaa(robot,duck){
@@ -48,4 +48,4 @@ function fizzBuzz(num){
         }
     }
 }
-// fizzBuzz(10)
+fizzBuzz(10)
