@@ -1,0 +1,13 @@
+notes
+
+- servers need network access and disk access
+- node gives us an environment that can do that
+- node is a javascript runtime built on chromes v8 javascript engine
+
+HTPPS
+METHODS
+
+- get :: read
+- post :: create
+- put :: update
+- delete :: delete
